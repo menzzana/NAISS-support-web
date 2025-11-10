@@ -1,6 +1,14 @@
 NAMD is a parallel molecular dynamics code designed for high-performance
 simulation of large biomolecular systems. For more information see the
 [NAMD homepage](https://www.ks.uiuc.edu/Research/namd).
+
+NAMD is available to users as a module - we have a non-exclusive, non-commercial use license for academic purposes. 
+
+!!! warning "Citations"
+
+    See the <a href="http://www.ks.uiuc.edu/Overview/acknowledge.html" target="_blank">Acknowledge the TCB Group</a> p
+age for specifics on how to acknowledge the use of NAMD. 
+
 ## How to use
 Example job script for a regular NAMD run on 2 nodes:
 ```
